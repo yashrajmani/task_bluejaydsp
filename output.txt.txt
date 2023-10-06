@@ -1,0 +1,39 @@
+PS C:\Users\Yash Raj Mani\Desktop\task> python -u "c:\Users\Yash Raj Mani\Desktop\task\task.py"
+Menu:
+1. Check for employees who have worked for 7 consecutive days
+2. Check for employees who have less than 10 hours between shifts but greater than 1 hour
+3. Check for employees who have worked for more than 14 hours in a single shift
+4. Exit
+Enter your choice: 2
+Checking for employees who have less than 10 hours between shifts but greater than 1 hour...
+Employee: CaMaXaWE, CeghaW, Position ID: WFS000153 has less than 10 hours between shifts but greater than 1 hour.
+Employee: CaMaXaWE, CeghaW, Position ID: WFS000153 has less than 10 hours between shifts but greater than 1 hour.
+Employee: Xee, XaCar, Position ID: WFS000200 has less than 10 hours between shifts but greater than 1 hour.
+Employee: Xee, XaCar, Position ID: WFS000200 has less than 10 hours between shifts but greater than 1 hour.
+Employee: Xee, XaCar, Position ID: WFS000200 has less than 10 hours between shifts but greater than 1 hour.
+Employee: De Xa Cerda, IgWaciE, Position ID: WFS000318 has less than 10 hours between shifts but greater than 1 hour.
+Employee: MraW, WiXXiaC Ha, Position ID: WFS000345 has less than 10 hours between shifts but greater than 1 hour.
+Employee: MraW, WiXXiaC Ha, Position ID: WFS000345 has less than 10 hours between shifts but greater than 1 hour.
+Employee: CEreira Jr, JEse, Position ID: WFS000456 has less than 10 hours between shifts but greater than 1 hour.
+Employee: GrACfieXd, CErWeXiAs, Position ID: WFS000515 has less than 10 hours between shifts but greater than 1 hour.
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523 has less than 10 hours between shifts but greater than 1 hour.        
+Employee: HaCiXMEW, DeaWMe DevEW, Position ID: WFS000536 has less than 10 hours between shifts but greater than 1 hour.
+Employee: REdrigAez, GraWdEW AWgeX, Position ID: WFS000550 has less than 10 hours between shifts but greater than 1 hour.
+Employee: CarMer, XyWWeXX DejAaW Jr, Position ID: WFS000576 has less than 10 hours between shifts but greater than 1 hour.
+Menu:
+1. Check for employees who have worked for 7 consecutive days
+2. Check for employees who have less than 10 hours between shifts but greater than 1 hour
+3. Check for employees who have worked for more than 14 hours in a single shift
+4. Exit
+Enter your choice: 3
+Checking for employees who have worked for more than 14 hours in a single shift...
+Employee: DeXgadiXXE REdarMe, ChrisMiaW S, Position ID: WFS000523 has worked for more than 14 hours in a single shift.  
+
+Menu:
+1. Check for employees who have worked for 7 consecutive days
+2. Check for employees who have less than 10 hours between shifts but greater than 1 hour
+3. Check for employees who have worked for more than 14 hours in a single shift
+4. Exit
+Enter your choice: 4
+Exiting program.
+PS C:\Users\Yash Raj Mani\Desktop\task>
